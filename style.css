@@ -1,0 +1,162 @@
+h1{
+    margin: 100;
+}
+body {
+    background-color: rgb(251, 237, 234);
+  }
+
+  h1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(133, 133, 133); 
+    text-align: center;
+  }
+ h1 {
+    padding: 10px 20px 20px 30px;
+  }
+h3 { font-weight: lighter; }
+
+h4 {font-weight: lighter; }
+h4 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter; 
+  }
+p1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter; }
+
+  li {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter; ;}
+
+ { box-sizing: content-box;
+  width: 100%;
+  border: solid #e79548 10px;
+  padding: 5px; }
+
+ 
+.content-box {
+    width: 300px;
+    margin: auto;
+    border: 1px solid rgb(97, 64, 64);
+    text-align: center;
+  }
+.content-box {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter; }
+
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    object-fit: contain;
+    overflow: 'hidden';
+    border-radius: 50%;
+
+  }
+
+
+ul {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter; }
+
+#span-1 { 
+background-color:rgb(255, 241, 176);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: lighter; 
+text-align: center;
+}
+
+#img-1 {
+    display: inline;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+
+
+#span-2 { 
+    background-color:rgb(247, 165, 136);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter; 
+    text-align: right;
+    }
+
+
+    .box{
+        width: 100px;
+        height: 100px;
+        border: 1px solid rgb(188, 40, 40);
+        margin: 100px;
+        padding: 100px;
+        }
+
+
+
+        .topnav {
+            background-color: rgb(183, 183, 183);
+            overflow: hidden;
+          }
+
+          .topnav a {
+            float: left;
+            color: #ffffff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px; }
+            .topnav a:hover {
+                background-color: rgb(88, 88, 88);
+                color: rgb(161, 161, 161);}
+
+p2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter; 
+  text-align: center;
+}
+
+.topnav {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter; 
+}
+  .flex-container {
+
+    display: flex;
+    
+ 
+    flex-flow: row wrap;
+    
+    justify-content: space-around;
+    
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .flex-item {
+    background: tomato;
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    margin-top: 10px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+
+  .summerpic{ 
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    
+  }
+  
+  
